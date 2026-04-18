@@ -11,8 +11,8 @@ const AKSHARARAJ_24BCE0020_Portfolio = () => {
   const year_24BCE0020 = "2nd Year";
 
   // TODO: Replace with your actual portfolio URL when ready
-  const portfolioURL_24BCE0020 = "#";
-
+  const portfolioURL_24BCE0020 = "https://portfolio-znfi.onrender.com";
+  
   const skills_24BCE0020 = [
     { label: 'React.js', level: 70, color: '#00e5c8' },
     { label: 'JavaScript', level: 75, color: '#f5c842' },
