@@ -129,9 +129,7 @@ const AKSHARARAJ_24BCE0020_Portfolio = () => {
             🌐 View My Portfolio
             <span style={{ fontSize: '1.1rem' }}>↗</span>
           </a>
-          <p style={{ color: '#7a7a9a', fontSize: '0.78rem', marginTop: '10px', fontStyle: 'italic' }}>
-            * Portfolio link will be updated soon
-          </p>
+          
         </div>
 
         {/* Skills */}
